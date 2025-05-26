@@ -1,5 +1,5 @@
-# cyber-intern
-Day 1
+# cyber-intern 
+Task 1
 🔍 Nmap Local Network Scan – Lab Report
 📁 Description
 This project demonstrates a basic TCP SYN port scan of a local virtual network using Nmap, conducted from a Kali Linux virtual machine running in VMware. The goal is to identify active devices and open ports within an internal test environment to understand network exposure and service enumeration.
